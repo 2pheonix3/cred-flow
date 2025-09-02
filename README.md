@@ -1,8 +1,8 @@
-This project implements an Intrusion Detection System (IDS) using machine learning models to detect network intrusions. The system utilizes two popular datasets for network security research: the KDD Cup 99 and the NSL-KDD datasets. The machine learning models employed in this project are Support Vector Machines (SVM) and Random Forest (RF).
+This project implements an Intrusion Detection System (IDS) using machine learning models to detect network intrusions. The system utilizes two popular datasets for network security research: the KDD Cup 99 and the NSL-KDD datasets. The machine learning models employed in this project is Random Forest (RF).
 
 Key Features
 Datasets: KDD Cup 99 and NSL-KDD
-Models: Support Vector Machines (SVM) and Random Forest (RF)
+Models:Random Forest (RF)
 Performance Evaluation: Accuracy, Precision, Recall, F1 Score
 Datasets
 KDD Cup 99 Dataset
